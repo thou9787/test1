@@ -8,6 +8,7 @@
             "email": "blogkent@gmail.com"
         }
     ],
+    "homepage": "https://github.com/thou9787/test1.git",
     "keywords": ["Laravel", "YuLun"],
     "require": {
         "illuminate/support": "~7|~8"
